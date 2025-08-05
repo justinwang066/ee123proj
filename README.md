@@ -1,6 +1,6 @@
 # ee123proj
 EE 123 Project Spring 2025
-Presentation Link: 
+Presentation Link: <br>
 https://docs.google.com/presentation/d/1tuWr2FpA2kqVDZ9N4id5-gP0BMg3bl-WuwBbhdZ0QCg/edit?usp=sharing
 
 # 🛠️ Tool Condition Monitoring via Signal Processing
